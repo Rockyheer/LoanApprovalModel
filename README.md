@@ -14,3 +14,5 @@ This project covers the whole process from feature engineering the data to deplo
 
 
 The flow of this project can be seen in the image below: 
+
+![flow](https://github.com/Rockyheer/LoanApprovalModel/blob/master/flow.png)
