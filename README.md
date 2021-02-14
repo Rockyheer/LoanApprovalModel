@@ -14,6 +14,7 @@ This project covers the complete process from data collection to deploying model
 The flow of this project can be seen in the image below: 
 
 ![flow](https://github.com/Rockyheer/LoanApprovalModel/flow.png)
+![alt text](https://github.com/heer77331/LoanApprovalModel/blob/master/flow.png?raw=true)
 
 ## Prerequisite
 What things you need to install the software and how to install them:
